@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AlinaWeather/static/css/main.8165ba6d.chunk.css",
+    "main.js": "/AlinaWeather/static/js/main.25fa83de.chunk.js",
+    "main.js.map": "/AlinaWeather/static/js/main.25fa83de.chunk.js.map",
+    "runtime-main.js": "/AlinaWeather/static/js/runtime-main.5255b0f5.js",
+    "runtime-main.js.map": "/AlinaWeather/static/js/runtime-main.5255b0f5.js.map",
+    "static/js/2.34b38748.chunk.js": "/AlinaWeather/static/js/2.34b38748.chunk.js",
+    "static/js/2.34b38748.chunk.js.map": "/AlinaWeather/static/js/2.34b38748.chunk.js.map",
+    "index.html": "/AlinaWeather/index.html",
+    "precache-manifest.7b3f8304160f391b09fa47a8e3c39385.js": "/AlinaWeather/precache-manifest.7b3f8304160f391b09fa47a8e3c39385.js",
+    "service-worker.js": "/AlinaWeather/service-worker.js",
+    "static/css/main.8165ba6d.chunk.css.map": "/AlinaWeather/static/css/main.8165ba6d.chunk.css.map",
+    "static/js/2.34b38748.chunk.js.LICENSE.txt": "/AlinaWeather/static/js/2.34b38748.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/AlinaWeather/static/media/2.ffa516d7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5255b0f5.js",
+    "static/js/2.34b38748.chunk.js",
+    "static/css/main.8165ba6d.chunk.css",
+    "static/js/main.25fa83de.chunk.js"
+  ]
+}
